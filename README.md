@@ -1,5 +1,5 @@
 # -2018-2-Text-Mining
-- 2018년도 2학기 이종욱 교수님 텍스트마이닝 수업 필기 자료.
+- 2018년도 2학기 이종욱 교수님 Text Mining 수업 필기 자료.
 
 ## 목차
 - Chapter 1 : Introduction
